@@ -1,0 +1,27 @@
+{
+  "name": "chroma_progress",
+  "version": "1.0.0",
+  "description": "Progress bar for you bot discord, or wathever you want !",
+  "main": "xpBar_value.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChromaTechFR/ProgressBar.git"
+  },
+  "keywords": [
+    "js",
+    "discordjs",
+    "progressbar"
+  ],
+  "author": "ChromaTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChromaTechFR/ProgressBar/issues"
+  },
+  "homepage": "https://github.com/ChromaTechFR/ProgressBar#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
