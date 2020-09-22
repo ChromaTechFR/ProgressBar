@@ -10,6 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/ChromaTechFR/ProgressBar.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  
   "keywords": [
     "js",
     "discordjs",
