@@ -15,3 +15,5 @@ const xpBar = (hexColor, currentXP, xpNeeded) => {
         });
     });
 }
+
+module.exports = xpBar; 
