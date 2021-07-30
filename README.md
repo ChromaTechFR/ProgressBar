@@ -1,5 +1,5 @@
 # ProgressBar
-to download it npm i chroma_progress@1.0.0 or ![npm logo](https://www.npmjs.com/package/chroma_progress)
+to download it npm i chroma_progress@1.0.0 or ![npm link](https://www.npmjs.com/package/chroma_progress)
 # Exemple: 
 
         const value = x;
